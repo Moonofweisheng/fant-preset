@@ -29,6 +29,7 @@ module.exports = (api, options, rootOptions) => {
             "@vue/cli-service": "^4.4.4",
             "@vue/eslint-config-prettier": "^6.0.0",
             "@vue/eslint-config-typescript": "^5.0.2",
+            "cross-env": "^7.0.2",
             "eslint": "^6.7.2",
             "eslint-plugin-prettier": "^3.1.4",
             "eslint-plugin-vue": "^6.2.2",
